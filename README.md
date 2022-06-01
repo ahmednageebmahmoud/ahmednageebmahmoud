@@ -90,8 +90,6 @@ ahmednageebmahmoud@github
    <a href="mailto:ahmed.nageeb.mahmoud.hssan@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
   <a href="https://www.youtube.com/c/AhmedNageebMahmoud1"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
   <a href="https://www.tiktok.com/@ahmednageebmahmoud"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201025249400" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
-
 </p>
 <br>
 <br>
