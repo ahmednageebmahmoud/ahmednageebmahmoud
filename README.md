@@ -23,7 +23,7 @@ ahmednageebmahmoud@github
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmednageebmahmoud&theme=monokai&utcOffset=8)
 
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills</f2> 
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
 ##### 💪 Programming Languages
 
@@ -83,7 +83,7 @@ ahmednageebmahmoud@github
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-2c292d?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
 </p>
 <br>
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me </h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30"> Connect with me </h2>
 <p>
   <a href="https://www.linkedin.com/in/ahmednageebmahmoud/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/AhmedNageebMahmoud/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
